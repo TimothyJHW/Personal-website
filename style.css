@@ -1,6 +1,7 @@
 body, html {
     height:100%;
     margin:0;
+    background-color: lightgray; 
 
 }
 
@@ -32,7 +33,7 @@ body {
 
 .container {
     display:grid;
-    grid-template-columns: 50% auto;
+    grid-template-columns: 50% 30rem;
     height:auto;
     align-self:center;
     margin:0 50px;
@@ -56,18 +57,18 @@ ul li {
 }
 
 ul li:nth-child(1) {
-    background:#226dbc;
+    background:#5c8bc1;
     top: -105px;
     z-index: 2;
 }
 
 ul li:nth-child(2) {
-    background:#d57a3d;
+    background: rgb(213, 236, 120);
     z-index: 1;
 }
 
 ul li:nth-child(3) {
-    background:#60cf5a;
+    background:#d98288;
     top:105px;
 
 }
@@ -79,5 +80,10 @@ ul li:hover {
     mix-blend-mode: normal;
 }
 
-
+.spacer {
+    background:darkgray;
+    border-radius: 50%;
+    background-image: url("/Assets/maxime-galliot-sZrYr83Elcw-unsplash");
+    margin:10px;
+}
 
