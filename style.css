@@ -1,16 +1,89 @@
+* {
+    box-sizing: border-box;
+    /* margin:0;
+    padding:0; */
+}
+
 body, html {
-    height:100%;
-    margin:0;
-    background-color: lightgray; 
+    
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+
+
 
 }
 
 body {
     font-family: montserrat;
-    display:grid;
+    /* display:grid;
     grid-template-columns: auto;
-    grid-template-rows: auto;
+    grid-template-rows: auto; */
+    height:400vh;
 }
+
+a {
+    text-decoration:none;
+}
+
+.desktop-nav {
+    position: fixed;
+    width: 100%;
+    background-color: rgb(0 0 0);
+    opacity:.75;
+    z-index: 999;
+}
+
+.desktop-nav  > *{
+    display:flex;
+    gap: 5em;
+    justify-content: flex-end;
+    list-style-type: none;
+    text-transform: uppercase;
+    padding: .2rem;
+}
+
+nav li a {
+    color: white;
+    font-size: .75rem;
+    letter-spacing: .3rem;
+}
+
+nav li a:hover {
+    color:yellow;
+}
+
+#page-1 {
+    min-height:100vh;
+    background-image: url(Assets/fabio-oyXis2kALVg-unsplash.jpg);
+    background-size:cover;
+    background-position: top right;
+    background-repeat: no-repeat;
+    position: relative;
+    background-color:red;
+}
+#page-2 {
+    min-height:100vh;
+    background-color:rgb(75, 75, 75);
+    position: relative;
+}
+#page-3 {
+    min-height:100vh;
+    position: relative;
+    background-color: lightgray;
+}
+#page-4 {
+    min-height:100vh;
+    position: relative;
+    background-color: rgb(75, 75, 75);
+}
+
+
+
+
+
+--------------------------------
+
+
 
 .bg,.bg2 {
     width:100%;
@@ -31,7 +104,7 @@ body {
 }
 
 
-.container {
+#rightbox {
     display:grid;
     grid-template-columns: 50% 30rem;
     height:auto;
@@ -39,12 +112,25 @@ body {
     margin:0 50px;
 }
 
-ul {
+#leftbox {
+    position:absolute;
+    color:white;
+    top:40%;
+}
+
+#leftbox h1 {
+    border-bottom: 1px white solid;
+    transition: all  .4s ease-in-out;
+    /* width: fit-content; */
+
+}
+
+#perspective {
     list-style-type:none;
     perspective:1000px;
 }
 
-ul li {
+#perspective {
     display:grid;
     grid-template-columns:20% auto;
     border-radius:10px;
@@ -56,24 +142,24 @@ ul li {
     mix-blend-mode: multiply;
 }
 
-ul li:nth-child(1) {
+.card:nth-child(1) {
     background:#5c8bc1;
     top: -105px;
     z-index: 2;
 }
 
-ul li:nth-child(2) {
+.card:nth-child(2) {
     background: rgb(213, 236, 120);
     z-index: 1;
 }
 
-ul li:nth-child(3) {
+.card:nth-child(3) {
     background:#d98288;
     top:105px;
 
 }
 
-ul li:hover {
+.card:hover {
     transform: rotateY(-22deg) rotateX(7deg) scale(1.03);
     transition: transform .4s ease-out;
     z-index:3;
@@ -83,7 +169,138 @@ ul li:hover {
 .spacer {
     background:darkgray;
     border-radius: 50%;
-    background-image: url("/Assets/maxime-galliot-sZrYr83Elcw-unsplash");
-    margin:10px;
+    background-image: url();
+
 }
+
+
+.button {
+    padding:.6rem 1rem;
+    border:1px gray solid;
+    width: fit-content;
+    text-transform:uppercase;
+    z-index:999;
+    font-size: .75rem;
+}
+
+
+#btn_one {
+    background-color: white;
+    color: black;
+    transition: all .4s ease-out;
+}
+
+#btn_one:hover{
+    background-color: black;
+    color:white;
+    transition: all .4s ease-out;
+}
+
+
+
+/* page 2 */
+
+#macro-container {
+    max-width: 900px;
+    background-color:white;
+    min-height:100vh;
+    margin:auto;
+    text-align: center;
+}
+
+#grid-container {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-auto-rows:minmax(100px,auto);
+    justify-content: center;
+    align-content: center;
+    gap:5px;
+    /* grid-auto-flow:column; */
+}
+.page2_card {
+    /* width:1fr;
+    height:1fr; */
+        /* float: left; */
+        /* width:  200px;
+        height: 300px; */
+        /* background-size: contain;
+        background-repeat:no-repeat;
+        border: 1px slategray solid;
+        padding:5 PX; */
+        position: relative;
+        overflow: hidden;
+        aspect-ratio: 3/2;
+        border-radius: 8px;
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+
+        
+
+}
+
+#page2_one {
+ background-image: url(Assets/euflag.png);
+
+} 
+
+#page2_two {
+    background-image: url(Assets/Daily\ Telegraph.svg);
+
+}
+
+#page2_three {
+  background-image: url(Assets/IMG_0002.png);
+
+}
+#page2_four {
+    background-image: url(Assets/westminster.png);
+}
+
+#page2_five {
+    background-image: url(Assets/stockchart.png);
+}
+
+#page2_six {
+    background-image: url(Assets/oxford.png);
+}
+
+
+
+
+#snowglobe {scale:30%}
+#techshape {scale:30%}
+
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+  }
+  .one {
+    grid-column: 1 / 3;
+    grid-row: 1;
+  }
+  .two {
+    grid-column: 2 / 4;
+    grid-row: 1 / 3;
+  }
+  .three {
+    grid-column: 1;
+    grid-row: 2 / 5;
+  }
+  .four {
+    grid-column: 3;
+    grid-row: 3;
+  }
+  .five {
+    grid-column: 2;
+    grid-row: 4;
+  }
+  .six {
+    grid-column: 3;
+    grid-row: 4;
+  }
+  
 

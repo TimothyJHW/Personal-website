@@ -1,0 +1,532 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous" type="c0814f48e52f4cd608d99651-text/javascript"></script>
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+
+<title>GiveFastLink</title>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="GiveFastLink" />
+<meta name="twitter:card" content="summary_large_image" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://givefastlink.com/#organization","name":"GiveFastLink","url":"https://givefastlink.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://givefastlink.com/#logo","inLanguage":"en-US","url":"https://givefastlink.com/wp-content/uploads/2021/10/givefastlink.com-logo.png","contentUrl":"https://givefastlink.com/wp-content/uploads/2021/10/givefastlink.com-logo.png","width":400,"height":150,"caption":"GiveFastLink"},"image":{"@id":"https://givefastlink.com/#logo"}},{"@type":"WebSite","@id":"https://givefastlink.com/#website","url":"https://givefastlink.com/","name":"GiveFastLink","description":"Free Online Video Downloader","publisher":{"@id":"https://givefastlink.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://givefastlink.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"#webpage","url":"","name":"","isPartOf":{"@id":"https://givefastlink.com/#website"},"breadcrumb":{"@id":"#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":[""]}]},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://givefastlink.com/"},{"@type":"ListItem","position":2,"name":""}]}]}</script>
+
+<link rel="alternate" type="application/rss+xml" title="GiveFastLink &raquo; Feed" href="https://givefastlink.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="GiveFastLink &raquo; Comments Feed" href="https://givefastlink.com/comments/feed/" />
+<script type="c0814f48e52f4cd608d99651-text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/givefastlink.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="ugb-style-css-css" href="https://givefastlink.com/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/frontend_blocks.css?ver=2.17.1" media="all" />
+<style id="ugb-style-css-inline-css">
+:root {
+			--content-width: 640px;
+		}
+</style>
+<link rel="stylesheet" id="ugb-style-css-premium-css" href="https://givefastlink.com/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/frontend_blocks__premium_only.css?ver=2.17.1" media="all" />
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://givefastlink.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.3" media="all" />
+<link rel="stylesheet" id="aiodl-default-style-css" href="https://givefastlink.com/wp-content/themes/aiodl-default/style.css?ver=1.2.7" media="all" />
+<script id="ugb-block-frontend-js-js-extra" type="c0814f48e52f4cd608d99651-text/javascript">
+var stackable = {"restUrl":"https:\/\/givefastlink.com\/wp-json\/"};
+</script>
+<script src="https://givefastlink.com/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/frontend_blocks.js?ver=2.17.1" id="ugb-block-frontend-js-js" type="c0814f48e52f4cd608d99651-text/javascript"></script>
+<script src="https://givefastlink.com/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/frontend_blocks__premium_only.js?ver=2.17.1" id="ugb-block-frontend-js-premium-js" type="c0814f48e52f4cd608d99651-text/javascript"></script>
+<link rel="icon" href="https://givefastlink.com/wp-content/uploads/2021/10/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://givefastlink.com/wp-content/uploads/2021/10/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://givefastlink.com/wp-content/uploads/2021/10/favicon.png" />
+<meta name="msapplication-TileImage" content="https://givefastlink.com/wp-content/uploads/2021/10/favicon.png" />
+<style id="wp-custom-css">
+			body{
+	color: #000 !important;
+	padding:0 5px;
+}
+h1 {
+	font-size: 2.5rem;
+	font-weight: 800;
+}
+h2 {
+	font-size: 2rem;
+	font-weight: 600;
+}
+h3 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+header nav.navbar {
+	border-bottom: 1px solid #f3f3f3;
+  padding: .5rem 0 .2rem 0;
+}
+.downbtn {
+	    margin: 0 auto;
+}
+header .container .row {
+	    text-align: center;
+}
+input#url {
+			box-shadow: 0 0 15px rgb(0 0 0 / 5%);
+}
+.form-control {
+	    border: 1px solid #e7e7e7;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #36d480;
+    border-color: #36d480;
+}
+#downloadBtn {
+	  padding: 15px 20px;
+		font-weight: 600;
+	  font-size: 1rem;
+}
+.pb-lg-20, .pb-8 {
+	padding-bottom: 0 !important;
+}
+main article .wp-block-image {
+	text-align: center;
+}
+main article .wp-block-image img {
+	border-radius: 20px;
+}
+article.mt-8 {
+	    margin-top: 0 !important;
+
+}
+main#primary {
+	border-top: 1px solid #f3f3f3;
+	margin-top: 30px;
+}
+.btn-secondary {
+    background-color: #fbfff1;
+    border-color: #a5ce50;
+	  padding-right: 15px;
+    padding-left: 15px;
+}
+.link-dark {
+    color: #444444;
+}
+.btn-success {
+    background-color: #53d57e;
+    border-color: #53d57e;
+    border-radius: 5px !important;
+    box-shadow: 0 3px 8px rgb(36 36 36 / 20%);
+    border-bottom: 3px solid RGBA(0,0,0,0.2);
+}
+.bg-dark {
+    background-color: #666666 !important;
+}
+.nav-link {
+    color: #000 !important;
+}
+#share-buttons a {
+	margin: 5px;
+}
+#download-form img {
+	text-align: center !important;
+}
+.container .row h2.mt-8 {
+	white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+/* Finish pokopin changes */
+
+
+.container .bg-light.rounded {
+	    background-color: #ffffff !important;
+    box-shadow: 0 3px 8px rgb(36 36 36 / 10%);
+    border-bottom: 1px solid RGBA(0,0,0,0.2);
+	text-align: left !important;
+	padding-left: 15px;
+}
+.bg-light a.text-dark:hover, #menu-header a:hover {
+	 color: #38d283 !important; 
+}
+.text-dark {
+    color: #5c5c5c !important;
+}
+.bg-light a.text-dark img {
+	  display: inline !important;
+    margin-right: 10px !important;
+	  transition: .2s;
+}
+
+section.py-20 .container .max-w-3xl.mx-auto.text-center {
+	display: none;
+}
+
+.downbtn button svg {
+	    width: 1.5em;
+    margin: 0 5px 8px 0;
+}
+button#pasteBtn svg {
+	  width: 1em;
+}
+
+.btn-check:checked+.btn-secondary, .btn-check:active+.btn-secondary, .btn-secondary:active, .btn-secondary.active, .show>.btn-secondary.dropdown-toggle, .btn-check:checked+.btn-primary, .btn-check:active+.btn-primary, .btn-primary:active, .btn-primary.active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #30915f;
+    border-color: #40ba7b;
+}
+.btn-secondary:hover, .btn-primary:hover {
+    color: #fff;
+    background-color: #40ba7b;
+    border-color: #40ba7b;
+}
+.justify-content-end svg.text-muted:hover, .justify-content-between ul li a:hover {
+	color: #36d480 !important;
+}
+
+.w-25 {
+	  width: 120px !important;
+    float: left!important;
+    margin-left: -45% !important;
+}
+
+section.py-20 {
+	  padding-top:0 !important;
+}
+.schema-faq {
+	display: none;
+}
+.row .col-12.mb-5.mb-lg-0 a {
+    color: #000;
+    text-decoration: none;
+    border-bottom: 1px dotted #000;
+}
+.ugb-heading__title {
+	color: #000 !important;
+}
+article.container.mt-8 h1 {
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.container img.w-75 {
+	width: auto !important;
+}
+
+
+
+/* GFL.COM 2022 changes */
+#menu-header .nav-item.dropdown {
+	display:none;
+}
+.alert-warning {
+    color: #fff;
+    background-color: #ff546d;
+    border-color: #e30023;
+}
+
+.btn-primary, .btn-secondary {
+		border-bottom: 3px solid RGBA(0,0,0,0.2);
+}
+
+@media screen and (max-width: 479px) {
+.btn-secondary {
+	display: none !important;
+	visibility: hidden;
+}
+	}
+
+header .container.mt-8 {
+	margin-top: 1rem !important;
+} 
+
+header .container.mt-8 h2.mb-8 {
+    line-height: 2rem;
+}
+.navbar #menu-header svg, .menu-header-container ul li svg, #menu-footer a svg {
+		width: 1.3em;
+    margin: 0 5px 5px 0;
+}
+
+nav.position-fixed a img {
+	max-width: 60%;
+}
+
+nav.position-fixed {
+	z-index: 999999;
+}
+
+.row>* {
+    padding-right: calc(var(--bs-gutter-x) / 8);
+    padding-left: calc(var(--bs-gutter-x) / 8);
+}
+ul#menu-footer li {margin-left: 10px;}
+
+#share-buttons {
+	display: none;
+}
+
+
+.asensad {
+	text-align: center;
+}
+
+img.dlloader{
+	float: none !important;
+  margin-left: 0 !important;
+}
+
+
+.btn-success {
+    background-color: #36d480;
+    border-color: #36d480;
+    border-radius: 5px !important;
+    box-shadow: 0 3px 8px rgb(36 36 36 / 20%);
+    border-bottom: 3px solid RGBA(0,0,0,0.2);
+}
+.btn-danger {
+    background-color: #76a6ff;
+    border-color: #76a6ff;
+	  border-bottom: 3px solid RGBA(0,0,0,.2);
+}
+.btn-info {
+    background-color: #ff5e00;
+    border-color: #ff5e00;
+    border-bottom: 3px solid RGBA(0,0,0,.2);	
+}
+
+.mybtnsuc:last-of-type::after {
+ 	  content: "\a \a";
+    white-space: pre;
+}
+.mybtnsuc:first-of-type::before {
+ 	  content: " Download Videos \a ";
+	  font-weight: bolder;
+  	white-space: pre;
+}
+.mybtndngr:first-of-type::before {
+ 	  content: " Download Voices \a";
+  	white-space: pre;
+}
+.mybtndngr:last-of-type::after {
+ 	  content: "\a \a";
+  	white-space: pre;
+}
+.mybtninfo:first-of-type::before {
+ 	  content: " Download Muted Videos \a";
+	  font-weight: bolder;
+  	font-size: 1.15rem !important;
+  	white-space: pre;
+}
+
+.mybtnthub::before {
+ 	  content: " Download Thumbnail Image \a ";
+	  font-weight: bolder;
+  	font-size: 1.15rem !important;
+  	white-space: pre;
+}
+.mybtnthub a {
+	    background-color: #e91e63;
+    border-color: #e91e63;
+    border-bottom: 3px solid RGBA(0,0,0,.2);
+    padding: 1rem 0.5rem;
+    width: 200px !important;
+}
+.mybtnthub svg {
+	fill: white;
+}
+.col-md-8.col-sm-12.mt-4.p-0 {
+	text-align: left;
+	padding: 10px 15px !important;
+}		</style>
+
+<script type="c0814f48e52f4cd608d99651-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-MP438H3');</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2635297265911785" crossorigin="anonymous" type="c0814f48e52f4cd608d99651-text/javascript"></script>
+</head>
+<body class="wp-custom-logo hfeed">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MP438H3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<header class="container pb-8 pb-lg-20">
+<nav class="navbar navbar-light navbar-expand-lg" id="header">
+<div class="container-fluid">
+<a class="navbar-brand h4 text-decoration-none" href="https://givefastlink.com/">
+<img src="https://givefastlink.com/wp-content/uploads/2021/12/givefastlink.png" alt="GiveFastLink logo" height="50px" width="150px"> </a>
+<div class="d-lg-none">
+<button class="btn btn-sm navbar-burger">
+<svg class="d-block" width="16" height="16" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<title>Mobile Menu</title>
+<path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path>
+</svg>
+</button>
+</div>
+<div class="collapse navbar-collapse"><ul id="menu-header" class="navbar-nav ms-auto me-4" itemscope itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-294" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-294 nav-item"><a itemprop="url" href="#pokoapps" class="nav-link"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="cloud-download-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="svg-inline--fa fa-cloud-download-alt fa-w-20"><path fill="currentColor" d="M537.6 226.6c4.1-10.7 6.4-22.4 6.4-34.6 0-53-43-96-96-96-19.7 0-38.1 6-53.3 16.2C367 64.2 315.3 32 256 32c-88.4 0-160 71.6-160 160 0 2.7.1 5.4.2 8.1C40.2 219.8 0 273.2 0 336c0 79.5 64.5 144 144 144h368c70.7 0 128-57.3 128-128 0-61.9-44-113.6-102.4-125.4zm-132.9 88.7L299.3 420.7c-6.2 6.2-16.4 6.2-22.6 0L171.3 315.3c-10.1-10.1-2.9-27.3 11.3-27.3H248V176c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16v112h65.4c14.2 0 21.4 17.2 11.3 27.3z" class></path></svg>Supported Downloaders</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-36 nav-item"><a itemprop="url" href="https://givefastlink.com/blog" class="nav-link"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="newspaper" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="svg-inline--fa fa-newspaper fa-w-18"><path fill="currentColor" d="M552 64H112c-20.858 0-38.643 13.377-45.248 32H24c-13.255 0-24 10.745-24 24v272c0 30.928 25.072 56 56 56h496c13.255 0 24-10.745 24-24V88c0-13.255-10.745-24-24-24zM48 392V144h16v248c0 4.411-3.589 8-8 8s-8-3.589-8-8zm480 8H111.422c.374-2.614.578-5.283.578-8V112h416v288zM172 280h136c6.627 0 12-5.373 12-12v-96c0-6.627-5.373-12-12-12H172c-6.627 0-12 5.373-12 12v96c0 6.627 5.373 12 12 12zm28-80h80v40h-80v-40zm-40 140v-24c0-6.627 5.373-12 12-12h136c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H172c-6.627 0-12-5.373-12-12zm192 0v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12zm0-144v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12zm0 72v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12z" class></path></svg>Blog</span></a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-37 nav-item"><a itemprop="url" href="#pokofaq" class="nav-link"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="question-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-question-circle fa-w-16"><path fill="currentColor" d="M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 448c-110.532 0-200-89.431-200-200 0-110.495 89.472-200 200-200 110.491 0 200 89.471 200 200 0 110.53-89.431 200-200 200zm107.244-255.2c0 67.052-72.421 68.084-72.421 92.863V300c0 6.627-5.373 12-12 12h-45.647c-6.627 0-12-5.373-12-12v-8.659c0-35.745 27.1-50.034 47.579-61.516 17.561-9.845 28.324-16.541 28.324-29.579 0-17.246-21.999-28.693-39.784-28.693-23.189 0-33.894 10.977-48.942 29.969-4.057 5.12-11.46 6.071-16.666 2.124l-27.824-21.098c-5.107-3.872-6.251-11.066-2.644-16.363C184.846 131.491 214.94 112 261.794 112c49.071 0 101.45 38.304 101.45 88.8zM298 368c0 23.159-18.841 42-42 42s-42-18.841-42-42 18.841-42 42-42 42 18.841 42 42z" class></path></svg>FAQ</span></a></li>
+<li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-page  menu-item-293 nav-item"><a itemprop="url" href="https://givefastlink.com/contact/" class="nav-link"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-envelope fa-w-16"><path fill="currentColor" d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z" class></path></svg>Contact us</span></a></li>
+<span class="nav-item dropdown mx-8">
+<a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+<img src="https://givefastlink.com/wp-content/themes/aiodl-default/assets/icons/translation.svg" height="28" width="28" alt="languages">
+</a>
+<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+<li><a class="dropdown-item" href="https://givefastlink.com/">English</a></li>
+</ul></span></ul></div> </div>
+</nav>
+<div class="d-none navbar-menu position-relative">
+<div class="navbar-backdrop position-fixed top-0 start-0 end-0 bottom-0 bg-dark" style="opacity: 75%;"></div>
+<nav class="position-fixed top-0 start-0 bottom-0 d-flex flex-column w-75 max-w-sm py-6 px-6 bg-white overflow-auto">
+<div class="d-flex align-items-center mb-10">
+<a class="me-auto h4 mb-0 text-decoration-none" href="https://givefastlink.com/">
+<img src="https://givefastlink.com/wp-content/uploads/2021/12/givefastlink.png" alt="GiveFastLink logo" height="28"> </a>
+<button class="navbar-close btn-close" type="button" aria-label="Close"></button>
+</div>
+<div class="menu-header-container"><ul id="menu-header-1" class="nav flex-column" itemscope itemtype="http://www.schema.org/SiteNavigationElement"><li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-294 nav-item"><a itemprop="url" href="#pokoapps" class="nav-link"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="cloud-download-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="svg-inline--fa fa-cloud-download-alt fa-w-20"><path fill="currentColor" d="M537.6 226.6c4.1-10.7 6.4-22.4 6.4-34.6 0-53-43-96-96-96-19.7 0-38.1 6-53.3 16.2C367 64.2 315.3 32 256 32c-88.4 0-160 71.6-160 160 0 2.7.1 5.4.2 8.1C40.2 219.8 0 273.2 0 336c0 79.5 64.5 144 144 144h368c70.7 0 128-57.3 128-128 0-61.9-44-113.6-102.4-125.4zm-132.9 88.7L299.3 420.7c-6.2 6.2-16.4 6.2-22.6 0L171.3 315.3c-10.1-10.1-2.9-27.3 11.3-27.3H248V176c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16v112h65.4c14.2 0 21.4 17.2 11.3 27.3z" class></path></svg>Supported Downloaders</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-36 nav-item"><a itemprop="url" href="https://givefastlink.com/blog" class="nav-link"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="newspaper" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="svg-inline--fa fa-newspaper fa-w-18"><path fill="currentColor" d="M552 64H112c-20.858 0-38.643 13.377-45.248 32H24c-13.255 0-24 10.745-24 24v272c0 30.928 25.072 56 56 56h496c13.255 0 24-10.745 24-24V88c0-13.255-10.745-24-24-24zM48 392V144h16v248c0 4.411-3.589 8-8 8s-8-3.589-8-8zm480 8H111.422c.374-2.614.578-5.283.578-8V112h416v288zM172 280h136c6.627 0 12-5.373 12-12v-96c0-6.627-5.373-12-12-12H172c-6.627 0-12 5.373-12 12v96c0 6.627 5.373 12 12 12zm28-80h80v40h-80v-40zm-40 140v-24c0-6.627 5.373-12 12-12h136c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H172c-6.627 0-12-5.373-12-12zm192 0v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12zm0-144v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12zm0 72v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12z" class></path></svg>Blog</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-37 nav-item"><a itemprop="url" href="#pokofaq" class="nav-link"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="question-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-question-circle fa-w-16"><path fill="currentColor" d="M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 448c-110.532 0-200-89.431-200-200 0-110.495 89.472-200 200-200 110.491 0 200 89.471 200 200 0 110.53-89.431 200-200 200zm107.244-255.2c0 67.052-72.421 68.084-72.421 92.863V300c0 6.627-5.373 12-12 12h-45.647c-6.627 0-12-5.373-12-12v-8.659c0-35.745 27.1-50.034 47.579-61.516 17.561-9.845 28.324-16.541 28.324-29.579 0-17.246-21.999-28.693-39.784-28.693-23.189 0-33.894 10.977-48.942 29.969-4.057 5.12-11.46 6.071-16.666 2.124l-27.824-21.098c-5.107-3.872-6.251-11.066-2.644-16.363C184.846 131.491 214.94 112 261.794 112c49.071 0 101.45 38.304 101.45 88.8zM298 368c0 23.159-18.841 42-42 42s-42-18.841-42-42 18.841-42 42-42 42 18.841 42 42z" class></path></svg>FAQ</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page  menu-item-293 nav-item"><a itemprop="url" href="https://givefastlink.com/contact/" class="nav-link"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-envelope fa-w-16"><path fill="currentColor" d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z" class></path></svg>Contact us</span></a></li>
+</ul></div><div class="collapse navbar-collapse"><ul id="menu-header" class="navbar-nav ms-auto me-4" itemscope itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-294" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-294 nav-item"><a itemprop="url" href="#pokoapps" class="nav-link"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="cloud-download-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="svg-inline--fa fa-cloud-download-alt fa-w-20"><path fill="currentColor" d="M537.6 226.6c4.1-10.7 6.4-22.4 6.4-34.6 0-53-43-96-96-96-19.7 0-38.1 6-53.3 16.2C367 64.2 315.3 32 256 32c-88.4 0-160 71.6-160 160 0 2.7.1 5.4.2 8.1C40.2 219.8 0 273.2 0 336c0 79.5 64.5 144 144 144h368c70.7 0 128-57.3 128-128 0-61.9-44-113.6-102.4-125.4zm-132.9 88.7L299.3 420.7c-6.2 6.2-16.4 6.2-22.6 0L171.3 315.3c-10.1-10.1-2.9-27.3 11.3-27.3H248V176c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16v112h65.4c14.2 0 21.4 17.2 11.3 27.3z" class></path></svg>Supported Downloaders</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-36 nav-item"><a itemprop="url" href="https://givefastlink.com/blog" class="nav-link"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="newspaper" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="svg-inline--fa fa-newspaper fa-w-18"><path fill="currentColor" d="M552 64H112c-20.858 0-38.643 13.377-45.248 32H24c-13.255 0-24 10.745-24 24v272c0 30.928 25.072 56 56 56h496c13.255 0 24-10.745 24-24V88c0-13.255-10.745-24-24-24zM48 392V144h16v248c0 4.411-3.589 8-8 8s-8-3.589-8-8zm480 8H111.422c.374-2.614.578-5.283.578-8V112h416v288zM172 280h136c6.627 0 12-5.373 12-12v-96c0-6.627-5.373-12-12-12H172c-6.627 0-12 5.373-12 12v96c0 6.627 5.373 12 12 12zm28-80h80v40h-80v-40zm-40 140v-24c0-6.627 5.373-12 12-12h136c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H172c-6.627 0-12-5.373-12-12zm192 0v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12zm0-144v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12zm0 72v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12z" class></path></svg>Blog</span></a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-37 nav-item"><a itemprop="url" href="#pokofaq" class="nav-link"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="question-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-question-circle fa-w-16"><path fill="currentColor" d="M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 448c-110.532 0-200-89.431-200-200 0-110.495 89.472-200 200-200 110.491 0 200 89.471 200 200 0 110.53-89.431 200-200 200zm107.244-255.2c0 67.052-72.421 68.084-72.421 92.863V300c0 6.627-5.373 12-12 12h-45.647c-6.627 0-12-5.373-12-12v-8.659c0-35.745 27.1-50.034 47.579-61.516 17.561-9.845 28.324-16.541 28.324-29.579 0-17.246-21.999-28.693-39.784-28.693-23.189 0-33.894 10.977-48.942 29.969-4.057 5.12-11.46 6.071-16.666 2.124l-27.824-21.098c-5.107-3.872-6.251-11.066-2.644-16.363C184.846 131.491 214.94 112 261.794 112c49.071 0 101.45 38.304 101.45 88.8zM298 368c0 23.159-18.841 42-42 42s-42-18.841-42-42 18.841-42 42-42 42 18.841 42 42z" class></path></svg>FAQ</span></a></li>
+<li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-page  menu-item-293 nav-item"><a itemprop="url" href="https://givefastlink.com/contact/" class="nav-link"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-envelope fa-w-16"><path fill="currentColor" d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z" class></path></svg>Contact us</span></a></li>
+<span class="nav-item dropdown mx-8">
+<a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+<img src="https://givefastlink.com/wp-content/themes/aiodl-default/assets/icons/translation.svg" height="28" width="28" alt="languages">
+</a>
+<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+<li><a class="dropdown-item" href="https://givefastlink.com/">English</a></li>
+</ul></span></ul></div><div class="nav flex-column">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+<img src="https://givefastlink.com/wp-content/themes/aiodl-default/assets/icons/translation.svg" height="28" width="28">
+</a>
+<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+<li><a class="dropdown-item" href="https://givefastlink.com/">English</a></li>
+</ul>
+</li></div> </nav>
+</div>
+</header> <script type="c0814f48e52f4cd608d99651-text/javascript">
+        const urlSearchParams = new URLSearchParams(window.location.search);
+        const params = Object.fromEntries(urlSearchParams.entries());
+        let redirectUrl = window.location.href;
+        let countdown = 9;
+        let timeLeft = countdown;
+        let monetization = false;
+        let shortenedUrl = "null";
+
+        function isValidHttpUrl(string) {
+            let url;
+
+            try {
+                url = new URL(string);
+            } catch (_) {
+                return false;
+            }
+
+            return url.protocol === "http:" || url.protocol === "https:";
+        }
+
+        function redirect() {
+            if (!params.start) {
+                if (monetization && isValidHttpUrl(shortenedUrl)) {
+                    window.location.href = shortenedUrl;
+                } else {
+                    window.location.href = redirectUrl + "&start=1";
+                }
+            }
+        }
+
+        var downloadTimer = setInterval(function () {
+            if (timeLeft <= 0) {
+                clearInterval(downloadTimer);
+                redirect();
+                document.getElementById("text").innerHTML = 'Download has started.<br><br><a href="https://givefastlink.com" style="color: #36d480;">Download another video</a>';
+                document.getElementById("loader").src = "https://givefastlink.com/wp-content/themes/aiodl-default/assets/icons/check-mark.png";
+            } else {
+                document.getElementById("countdown").innerHTML = timeLeft + "";
+            }
+            timeLeft -= 1;
+        }, 1000);
+    </script>
+<main class="container mt-8 mb-12">
+<div class="row align-items-center">
+<div class="col-12 mb-5 mb-lg-0" id="main">
+<div class="mt-8 mb-8 mb-lg-12 text-center">
+<div class="asensad" style="margin: 5px 0 50px 0;">
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2635297265911785" data-ad-slot="3834413979" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script type="c0814f48e52f4cd608d99651-text/javascript">
+                                     (adsbygoogle = window.adsbygoogle || []).push({});
+                                </script>
+</div>
+<img src="https://givefastlink.com/wp-content/themes/aiodl-default/assets/loader.svg" class="img-fluid w-25 mx-auto dlloader" id="loader"></div>
+<div class="text-center"><strong id="text">Your download will start within <span id="countdown" style="font-size:2rem;">10</span> seconds.</strong>
+</div>
+</div>
+</div>
+</main>
+<footer class="py-20">
+<div class="container">
+<div class="pb-6 pb-lg-10 border-bottom">
+<div class="d-flex flex-wrap align-items-start justify-content-between">
+<div class="col-12 col-lg-2 mb-6 mb-lg-0">
+<a class="d-inline-block mb-5 h4 text-decoration-none text-muted" href="https://givefastlink.com/">
+<img src="https://givefastlink.com/wp-content/uploads/2021/12/givefastlink.png" alt="GiveFastLink logo" height="28"> </a>
+</div>
+<div class="col-12 col-lg-auto footer-menu"><ul id="menu-footer" class="row text-center list-unstyled" itemscope itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page  menu-item-40 col-6 col-md-auto mb-2 mb-md-0"><a itemprop="url" href="https://givefastlink.com/contact/" class="text-decoration-none link-dark fw-bold"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-envelope fa-w-16"><path fill="currentColor" d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z" class></path></svg>Contact</span></a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page  menu-item-39 col-6 col-md-auto mb-2 mb-md-0"><a itemprop="url" href="https://givefastlink.com/about/" class="text-decoration-none link-dark fw-bold"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="info-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-info-circle fa-w-16"><path fill="currentColor" d="M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 110c23.196 0 42 18.804 42 42s-18.804 42-42 42-42-18.804-42-42 18.804-42 42-42zm56 254c0 6.627-5.373 12-12 12h-88c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h12v-64h-12c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h64c6.627 0 12 5.373 12 12v100h12c6.627 0 12 5.373 12 12v24z" class></path></svg>About</span></a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page  menu-item-41 col-6 col-md-auto mb-2 mb-md-0"><a itemprop="url" href="https://givefastlink.com/terms-of-service/" class="text-decoration-none link-dark fw-bold"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="user" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="svg-inline--fa fa-user fa-w-14"><path fill="currentColor" d="M313.6 304c-28.7 0-42.5 16-89.6 16-47.1 0-60.8-16-89.6-16C60.2 304 0 364.2 0 438.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-25.6c0-74.2-60.2-134.4-134.4-134.4zM400 464H48v-25.6c0-47.6 38.8-86.4 86.4-86.4 14.6 0 38.3 16 89.6 16 51.7 0 74.9-16 89.6-16 47.6 0 86.4 38.8 86.4 86.4V464zM224 288c79.5 0 144-64.5 144-144S303.5 0 224 0 80 64.5 80 144s64.5 144 144 144zm0-240c52.9 0 96 43.1 96 96s-43.1 96-96 96-96-43.1-96-96 43.1-96 96-96z" class></path></svg>Terms Of Service</span></a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy  menu-item-38 col-6 col-md-auto mb-2 mb-md-0"><a itemprop="url" href="https://givefastlink.com/privacy-policy/" class="text-decoration-none link-dark fw-bold"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="shield-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-shield-alt fa-w-16"><path fill="currentColor" d="M466.5 83.7l-192-80a48.15 48.15 0 0 0-36.9 0l-192 80C27.7 91.1 16 108.6 16 128c0 198.5 114.5 335.7 221.5 380.3 11.8 4.9 25.1 4.9 36.9 0C360.1 472.6 496 349.3 496 128c0-19.4-11.7-36.9-29.5-44.3zM256.1 446.3l-.1-381 175.9 73.3c-3.3 151.4-82.1 261.1-175.8 307.7z" class></path></svg>Privacy Policy</span></a></li>
+<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-page  menu-item-297 col-6 col-md-auto mb-2 mb-md-0"><a itemprop="url" href="https://givefastlink.com/cookies-policy/" class="text-decoration-none link-dark fw-bold"><span itemprop="name"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="cookie" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-cookie fa-w-16"><path fill="currentColor" d="M510.37 254.79l-12.08-76.26a132.493 132.493 0 0 0-37.16-72.95l-54.76-54.75c-19.73-19.72-45.18-32.7-72.71-37.05l-76.7-12.15c-27.51-4.36-55.69.11-80.52 12.76L107.32 49.6a132.25 132.25 0 0 0-57.79 57.8l-35.1 68.88a132.602 132.602 0 0 0-12.82 80.94l12.08 76.27a132.493 132.493 0 0 0 37.16 72.95l54.76 54.75a132.087 132.087 0 0 0 72.71 37.05l76.7 12.14c27.51 4.36 55.69-.11 80.52-12.75l69.12-35.21a132.302 132.302 0 0 0 57.79-57.8l35.1-68.87c12.71-24.96 17.2-53.3 12.82-80.96zM176 368c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32-14.33 32-32 32zm32-160c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32-14.33 32-32 32zm160 128c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32-14.33 32-32 32z" class></path></svg>Cookies Policy</span></a></li>
+</ul></div> </div>
+</div>
+<div class="mt-8">
+<div class="row">
+<p class="col text-muted small">All rights reserved &copy; GiveFastLink</p>
+<div class="col d-flex justify-content-end"></div> </div>
+</div>
+</div>
+</footer>
+<script src="https://givefastlink.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js" type="c0814f48e52f4cd608d99651-text/javascript"></script>
+<script src="https://givefastlink.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js" type="c0814f48e52f4cd608d99651-text/javascript"></script>
+<script src="https://givefastlink.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js" type="c0814f48e52f4cd608d99651-text/javascript"></script>
+<script id="contact-form-7-js-extra" type="c0814f48e52f4cd608d99651-text/javascript">
+var wpcf7 = {"api":{"root":"https:\/\/givefastlink.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src="https://givefastlink.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.3" id="contact-form-7-js" type="c0814f48e52f4cd608d99651-text/javascript"></script>
+<script src="https://givefastlink.com/wp-content/themes/aiodl-default/js/bootstrap/bootstrap.bundle.min.js?ver=1.2.7" id="aiodl-bootstrap-bundle-js" type="c0814f48e52f4cd608d99651-text/javascript"></script>
+<script id="aiodl-default-script-js-extra" type="c0814f48e52f4cd608d99651-text/javascript">
+var WPURLS = {"siteurl":"http:\/\/givefastlink.com"};
+var LANG_STRINGS = {"share":"Share","clear":"Clear","enterValidUrl":"Please enter a valid URL."};
+</script>
+<script src="https://givefastlink.com/wp-content/themes/aiodl-default/js/main.js?ver=1.2.7" id="aiodl-default-script-js" type="c0814f48e52f4cd608d99651-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="c0814f48e52f4cd608d99651-|49" defer></script><script>(function(){var js = "window['__CF$cv$params']={r:'83e57c5558fa63c4',t:'MTcwNDA1Njc4MS40OTMwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"83e57c5558fa63c4","version":"2023.10.0","token":"899d457070294ffabd8852a5de4d136c"}' crossorigin="anonymous"></script>
+</body>
+</html>
