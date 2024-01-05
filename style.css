@@ -1,7 +1,9 @@
+
+
 * {
     box-sizing: border-box;
-    /* margin:0;
-    padding:0; */
+    margin:0;
+    padding:0;
 }
 
 body, html {
@@ -304,3 +306,14 @@ nav li a:hover {
   }
   
 
+/* temporary clean-up */
+
+/* #grid-container {
+    display:none;
+} */
+
+#rightbox {
+    display:none;
+}
+
+#WIP {margin: 0 auto;}
